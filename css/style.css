@@ -1,0 +1,19 @@
+.debug nav {
+    height: 30px;
+    background-color: blue;
+}
+
+.debug #jumbotron {
+    background-color: aqua;
+    height: 250px;
+}
+
+.debug .row>[class*="col"] {
+    background-color: green;
+    height: 100px;
+}
+
+.debug #about {
+    background-color: rebeccapurple;
+    height: 250px;
+}
