@@ -107,6 +107,10 @@ nav {
 
 /* #region Contact */
 
+.brd_bot_grey {
+    border-bottom: 3px solid lightgray;
+}
+
 /* #endregion */
 
 /* #region Footer */
