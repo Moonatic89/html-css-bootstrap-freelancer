@@ -51,6 +51,19 @@
 
 /* #endregion */
 
+/* #region Commons */
+
+.art {
+    width: 10vw;
+    height: 3px;
+}
+
+.jumbo_art .art, .about_art .art {
+    background-color: white;
+}
+
+/* #endregion */
+
 /* #region Nav */
 
 nav {
@@ -70,29 +83,25 @@ nav {
     width: 200px;
 }
 
-.jumbo_art .art {
-    width: 10vw;
-    height: 3px;
-    background-color: white;
-}
-
 /* #endregion */
 
 /* #region Portfolio */
 
 #portfolio img {
-    width: 360px;
+    width: 100%;
 }
 
 .portfolio_art .art {
-    width: 10vw;
-    height: 3px;
     background-color: black;
 }
 
 /* #endregion */
 
 /* #region About */
+
+#about {
+    background-color: #1ABC9C;
+}
 
 /* #endregion */
 
