@@ -1,3 +1,5 @@
+/* #region Debug */
+
 .debug nav {
     height: 30px;
     background-color: blue;
@@ -41,4 +43,11 @@
 .debug .footer_bot {
     height: 50px;
     background-color: darkblue;
+}
+
+/* #endregion */
+
+.nav {
+    height: 90px;
+    background-color: #2C3E50;
 }
