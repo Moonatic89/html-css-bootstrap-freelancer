@@ -1,3 +1,7 @@
+/* #region Prefab */
+
+/* #endregion */
+
 /* #region Debug */
 
 .debug nav {
@@ -56,6 +60,8 @@ nav {
 
 /* #endregion */
 
+/* #region Jumbo */
+
 #hero_jumbotron {
     background-color: #1ABC9C;
 }
@@ -69,6 +75,24 @@ nav {
     height: 3px;
     background-color: white;
 }
+
+/* #endregion */
+
+/* #region Portfolio */
+
+/* #endregion */
+
+/* #region About */
+
+/* #endregion */
+
+/* #region Contact */
+
+/* #endregion */
+
+/* #region Footer */
+
+/* #endregion */
 
 /* #region My Little Framework */
 
