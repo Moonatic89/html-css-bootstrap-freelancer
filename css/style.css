@@ -123,6 +123,11 @@ nav {
     background-color: #3A546D;
 }
 
+.link_green>a {
+    color: #1ABC9C;
+    text-decoration: none;
+}
+
 /* #endregion */
 
 /* #region My Little Framework */
