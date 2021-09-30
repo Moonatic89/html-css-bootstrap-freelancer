@@ -62,6 +62,10 @@
     background-color: white;
 }
 
+.portfolio_art .art, .contact_art .art {
+    background-color: black;
+}
+
 /* #endregion */
 
 /* #region Nav */
@@ -89,10 +93,6 @@ nav {
 
 #portfolio img {
     width: 100%;
-}
-
-.portfolio_art .art {
-    background-color: black;
 }
 
 /* #endregion */
