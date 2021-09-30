@@ -48,6 +48,10 @@
 /* #endregion */
 
 nav {
-    height: 90px;
+    /* height: 90px; */
     background-color: #2C3E50;
+}
+
+.fs_2 {
+    font-size: 2rem;
 }
