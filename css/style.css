@@ -70,7 +70,7 @@ nav {
     width: 200px;
 }
 
-.art {
+.jumbo_art .art {
     width: 10vw;
     height: 3px;
     background-color: white;
@@ -79,6 +79,16 @@ nav {
 /* #endregion */
 
 /* #region Portfolio */
+
+#portfolio img {
+    width: 360px;
+}
+
+.portfolio_art .art {
+    width: 10vw;
+    height: 3px;
+    background-color: black;
+}
 
 /* #endregion */
 
