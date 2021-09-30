@@ -47,11 +47,53 @@
 
 /* #endregion */
 
+/* #region Nav */
+
 nav {
     /* height: 90px; */
     background-color: #2C3E50;
 }
 
+/* #endregion */
+
+#hero_jumbotron {
+    background-color: #1ABC9C;
+}
+
+.jumbo_img>img {
+    width: 200px;
+}
+
+.art {
+    width: 10vw;
+    height: 3px;
+    background-color: white;
+}
+
+/* #region My Little Framework */
+
+.fs_1 {
+    font-size: 1rem;
+}
+
+.fs_1-5 {
+    font-size: 1.5rem;
+}
+
 .fs_2 {
     font-size: 2rem;
 }
+
+.fs_3 {
+    font-size: 3rem;
+}
+
+.fs_4 {
+    font-size: 4rem;
+}
+
+.fs_5 {
+    font-size: 5rem;
+}
+
+/* #endregion  */
