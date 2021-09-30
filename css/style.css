@@ -111,9 +111,17 @@ nav {
     border-bottom: 3px solid lightgray;
 }
 
+. {
+    background-color: #1ABC9C;
+}
+
 /* #endregion */
 
 /* #region Footer */
+
+.footer_top {
+    background-color: #3A546D;
+}
 
 /* #endregion */
 
