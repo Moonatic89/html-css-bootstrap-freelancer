@@ -95,6 +95,10 @@ nav {
     width: 100%;
 }
 
+.br_rounder {
+    border-radius: 20px;
+}
+
 /* #endregion */
 
 /* #region About */
@@ -123,6 +127,11 @@ nav {
     background-color: #3A546D;
 }
 
+.footer_bot {
+    background-color: #2C3E50;
+    height: 90px;
+}
+
 .link_green>a {
     color: #1ABC9C;
     text-decoration: none;
@@ -132,6 +141,21 @@ nav {
     width: 25px;
     height: 25px;
     text-decoration: none;
+}
+
+.sphere {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+}
+
+.fw_600 {
+    font-weight: 700;
+}
+
+.t_align_middle {
+    line-height: 90px;
+    ;
 }
 
 /* #endregion */
